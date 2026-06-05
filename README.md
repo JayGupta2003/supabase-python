@@ -26,8 +26,8 @@ The database consists of four related tables:
 **1. Clone the repository**
 
 ```bash
-git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-cd YourRepoName
+git clone https://github.com/JayGupta2003/supabase-python.git (https://github.com/JayGupta2003/supabase-python.git)
+cd supabase-python
 
 ```
 
