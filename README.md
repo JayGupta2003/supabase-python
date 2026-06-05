@@ -26,7 +26,7 @@ The database consists of four related tables:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/JayGupta2003/supabase-python.git (https://github.com/JayGupta2003/supabase-python.git)
+git clone https://github.com/JayGupta2003/supabase-python.git
 cd supabase-python
 
 ```
